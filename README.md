@@ -428,7 +428,3 @@ public class ${ActivityName} extends BaseActivity<${PresenterName}> implements $
 > - rxjava2_adapter  : "1.0.0",
 > - logging          : "3.4.0-RC1",
 > - butterknife      : "8.8.1",
-#### 意见反馈
-如果遇到问题或者好的优化建议，请反馈到：Issues、927195249@qq.com 或者LiangLuDev@gmail.com
-
-如果觉得还行的话，右上角的星星点一下吧! 谢谢啦！
