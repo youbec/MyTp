@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\okio-1.11.0_94ef90d580f8d5be55b69605ec2779d83f5261d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_62bccc8e9edbb6f365f5e97677d7d83f87db98be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.0-RC1\c02a44744f33dacd4bea5160561b0fece180d719\logging-interceptor-3.4.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c02a44744f33dacd4bea5160561b0fece180d719">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.0-RC1_cd5a64827467e7a9b96802d7c14a35fb14a2c1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\b7807fe01a4fbca2c15930ea663d5400364a6a66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_cc9c8932717bcffb17b082234bbcc3de5ae29215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\4aa5245794db58d1e8d85ca83e3928178b5c3eb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_b4d1084e7ad9462a0f06b70ae5d447c3208c5b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\46404f1053e8f31b5f6f60e4846000170d1e55f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_af7c2e1fdea6a5efe3f0fbd2b2aa260a76684fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\90b92afcc1f2773ad2e3be888afb686e8f7bac98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_ecd1259ed09eda3feefa594bf37bd7c918fd4ce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.jakewharton.retrofit\retrofit2-rxjava2-adapter\1.0.0\e117362a2103f8ec01091ebd2f40aca4e1ada599\retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\retrofit2-rxjava2-adapter-1.0.0_e7c04e099b52a3cc5a12d42e431d79524f59924d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\a8009030295a1c0e321f0466a32348c2a2dde7e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_a4e0edcd42cd9c9c353eb5289e1b2fb14c3ee8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.2.0\d80514b6f44f0c4c6234e2d67fea783a25e77275\adapter-rxjava-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.2.0_c26f642b0d2e3048b44206e74cbfee654c434e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_9e356e8cc63bb3a3ac8ccc801f1cc92b83ef1475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\81cc8b8a01413ee62d16def2af2ab5c2a5cd3ef9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_958f11ff45b60657bfe0d89c4db714b0d8e52d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.0\42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8\rxjava-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\rxjava-1.2.0_393263072e2c42a2d90071f40d66f800d1ef46b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\07be01cffee8a016e88348c2cee9590e79e64009\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_bdca54e0d8d71d2148a2b6330c2b5dc8fb8e1e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\18184d33fcf5ffec1be9349ec395589365ee501c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_0ad4ab3c2f971f074c7cc07b01265442544e669e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_e757da33e8298613d48cb2ac9541a6b9742be02c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\66fcbcfe1bf6c97e6a6b7c5751467579fb9bc473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_85e9ffdded69dab95dfd08af6d5ca4d0452ebefa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\ffdfe3f6d02aef84d7def210108cc283709475f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_f621735b972c8c7ef5ba98bd169d47d3cc9f11b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_be10c5268e384097b4bef8039fada7c15a507ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\common-1.0.0_3833893783961d723b0329370289078e4b0a3af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_62299b0e1625a39ee7cd7ad32045593ae0157726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\53b263bcabd62cf5ac565d3263a31b4362cac269\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_0fea6958771e1e8be787c0d50f975dd60eee2380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_1eea1a158665986e55a9d10c0c361204a3e0608f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_4300e64bb363dd83a689f91809ebfc588868333f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\4e853a74c000db5de3c32dac069cb356abee309f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_3cdf1cfbb4def5e3d4a8a721d0c9ef59a022cf6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\gson-2.7_c16ca9e57f160c9c629cd242a87ea8632cc4f726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\038083126715b3e32a918efc41ff404473048944\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_a9a87e20ab9b32be57930b4e6e090a22e95ce56c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\91327f6feb3c32a446fd9e1c31a909d75ef8bc5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_d13361b0c36435f7128f574e8fc2aac786e2e31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\common-1.0.0_637a16a6d29d0f17582a81884a11426d5f5935cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\8219b95f6783c93e39c4f056a888c61033df75aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_c3952c39b50a99d33986663ff2b7d422c70f87f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\b6c3b7a2b884ea81fe526b0fc6f5129fa40a2b3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_7db0606b85aac6eaa1863faa62add13cffd61b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\rxjava-2.0.1_cc10a6bf3ab940162c3e45c6f5bb12301703f245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cui\.android\build-cache\7bdc3cb3bffcea8058be880ea574e5acc5d97e9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Cui\AndroidStudioProjects\DevMvp\app\build\intermediates\pre-dexed\debug\classes_aebef328d60c43d20158f9f4f428668e7c0b5c0e.jar" />
+    </item>
+
+</items>
