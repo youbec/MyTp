@@ -9,7 +9,7 @@ android {
     compileSdkVersion cfg.compileVersion
     buildToolsVersion cfg.buildToolsVersion
     defaultConfig {
-        applicationId "com.luliang.devmvp"
+        applicationId "com.ghxa.devmvp"
         minSdkVersion cfg.minSdk
         targetSdkVersion cfg.targetSdk
         versionCode cfg.versionCode
